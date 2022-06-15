@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Anthony Miéville
--  I'm an apprentice programmer in application development
+-  I'm an 1st year apprentice programmer in application development
 
 <!---
 antjm10/antjm10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
