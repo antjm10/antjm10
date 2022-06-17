@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Anthony Miéville
 -  I'm an 1st year apprentice programmer in application development
 
-- How to reach me: Linkedin Badge
+- How to reach me: 
 
 <!---
 antjm10/antjm10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
