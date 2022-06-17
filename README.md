@@ -3,7 +3,7 @@
 
 ### About me :
 
-- I'm an 1st year apprentice programmer in application development <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="75">
+- I'm an 1st year apprentice programmer in application development <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="75"> at <a href="https://jobtrek.ch/">@Jobtrek</a> in Switzerland 	:switzerland:
 
 - How to reach me: <a href="https://www.linkedin.com/in/anthony-mi%C3%A9ville-3a8248199/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
